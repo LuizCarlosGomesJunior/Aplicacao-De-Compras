@@ -20,4 +20,4 @@ Java
 
 // Entrada e controle
 - Scanner para entrada de dados do usuário
-- Estruturas de repetição e condição (while, if/else)
+- Estruturas de repetição e condição (while, if/else, for)
